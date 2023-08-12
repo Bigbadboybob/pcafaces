@@ -1,2 +1,3 @@
 # pcafaces
-PCA on some faces
+PCA on some faces :)
+
